@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">StessyQuiz</string>
+    <string name="q3">GOOGLE was originally called</string>
+    <string name="q1">Full Form of GOOGLE</string>
+    <string name="op11">Global Organization Of Oriented Group Language Of Earth</string>
+    <string name="op12">Global Organization Of Open Group Language Of Earth</string>
+    <string name="op13">Global Organization Of Oriental Group Language Of Earth</string>
+    <string name="op14">Globular Organization Of Oriented Group Language Of Earth .</string>
+    <string name="q2">1 googol is equal to</string>
+    <string name="op21">Hundred Zeroes</string>
+    <string name="op22">Thousand Zeroes</string>
+    <string name="op23">Five Hundred Zeroes</string>
+    <string name="op24">One Lakh Zeroes</string>
+    <string name="q4">Google was found by</string>
+    <string name="op41">Larry Page</string>
+    <string name="op42">Sundar Pichai</string>
+    <string name="op43">Sergey Brin</string>
+    <string name="op44">Andy Bechtolsheim</string>
+    <string name="submit">submit</string>
+    <string name="q1answer">Global Organization Of Oriented Group Language Of Earth</string>
+    <string name="q2answer">Hundred Zeroes</string>
+    <string name="q3answer">Bankrup</string>
+    <string name="q4answer1">Larry Page</string>
+    <string name="q4answer2">Sundar Pichai</string>
+    <string name="q4answer3">Sergey Brin</string>
+    <string name="q4answer4">Andy Bechtolsheim</string>
+    <string name="score">YOUR SCORE IS</string>
+    <string name="reset">RESET</string>
+</resources>
